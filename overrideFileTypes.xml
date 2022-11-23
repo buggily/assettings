@@ -1,0 +1,6 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/AndroidStudioProjects/ify/builder/convention/src/main/kotlin/AndroidApplicationConventionPlugin.kt" value="Kotlin" />
+    <file url="file://$USER_HOME$/AndroidStudioProjects/skeleton/builder/convention/src/main/kotlin/AndroidApplicationConventionPlugin.kt" value="Kotlin" />
+  </component>
+</application>
